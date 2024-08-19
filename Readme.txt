@@ -1,1 +1,1 @@
-This is experimental repo for git work via code
+This is experimental repo for git work via code.
